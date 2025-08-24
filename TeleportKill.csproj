@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+		<PropertyGroup>
+			<TargetFramework>net8.0</TargetFramework>
+			<ImplicitUsings>enable</ImplicitUsings>
+			<Nullable>enable</Nullable>
+		</PropertyGroup>
+
+		<!-- OutputPath customizado para Debug e Release -->
+		<PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+			<OutputPath>TeleportKill\</OutputPath>
+			<AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+		</PropertyGroup>
+		<PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+			<OutputPath>TeleportKill\</OutputPath>
+			<AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+		</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="CounterStrikeSharp.API" Version="1.0.337" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<None Include="lang\**" CopyToOutputDirectory="PreserveNewest" />
+	</ItemGroup>
+
+</Project>

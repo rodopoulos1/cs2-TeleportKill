@@ -1,0 +1,13 @@
+C:\Users\rodop\Pictures\RodoCodes\CS2 E DISCORD\CS2\KillTp\KillTp\killtp.deps.json
+c:\Users\rodop\Pictures\RodoCodes\CS2 E DISCORD\CS2\KillTp\KillTp\killtp.dll
+c:\Users\rodop\Pictures\RodoCodes\CS2 E DISCORD\CS2\KillTp\KillTp\killtp.pdb
+c:\Users\rodop\Pictures\RodoCodes\CS2 E DISCORD\CS2\KillTp\obj\Debug\killtp.csproj.AssemblyReference.cache
+c:\Users\rodop\Pictures\RodoCodes\CS2 E DISCORD\CS2\KillTp\obj\Debug\killtp.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\rodop\Pictures\RodoCodes\CS2 E DISCORD\CS2\KillTp\obj\Debug\killtp.AssemblyInfoInputs.cache
+c:\Users\rodop\Pictures\RodoCodes\CS2 E DISCORD\CS2\KillTp\obj\Debug\killtp.AssemblyInfo.cs
+c:\Users\rodop\Pictures\RodoCodes\CS2 E DISCORD\CS2\KillTp\obj\Debug\killtp.csproj.CoreCompileInputs.cache
+c:\Users\rodop\Pictures\RodoCodes\CS2 E DISCORD\CS2\KillTp\obj\Debug\killtp.dll
+c:\Users\rodop\Pictures\RodoCodes\CS2 E DISCORD\CS2\KillTp\obj\Debug\refint\killtp.dll
+c:\Users\rodop\Pictures\RodoCodes\CS2 E DISCORD\CS2\KillTp\obj\Debug\killtp.pdb
+C:\Users\rodop\Pictures\RodoCodes\CS2 E DISCORD\CS2\KillTp\obj\Debug\ref\killtp.dll
+c:\Users\rodop\Pictures\RodoCodes\CS2 E DISCORD\CS2\KillTp\killtp\lang\en.json
