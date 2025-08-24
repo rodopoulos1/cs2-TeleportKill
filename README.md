@@ -17,7 +17,7 @@ TeleportKill is a Counter-Strike 2 plugin that allows players to instantly telep
 4. Restart your server.
 
 ## 🛠️ Configuration Example
-The configuration file is automatically generated after the first run at `addons/counterstrikesharp/configs/TeleportKill/TeleportKill.json`.
+The configuration file is automatically generated after the first run at `addons/counterstrikesharp/configs/plugins/TeleportKill/TeleportKill.json`.
 Edit this file to customize the plugin settings:
 
 ```json
