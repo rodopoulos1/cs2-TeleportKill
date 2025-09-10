@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "OJ1EqOVUv7U=",
+  "dgSpecHash": "oGOsKwaKkcU=",
   "success": true,
   "projectFilePath": "C:\\Users\\rodop\\Pictures\\RodoCodes\\CS2 E DISCORD\\CS2\\KillTp\\TeleportKill.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\rodop\\.nuget\\packages\\counterstrikesharp.api\\1.0.337\\counterstrikesharp.api.1.0.337.nupkg.sha512",
+    "C:\\Users\\rodop\\.nuget\\packages\\counterstrikesharp.api\\1.0.339\\counterstrikesharp.api.1.0.339.nupkg.sha512",
     "C:\\Users\\rodop\\.nuget\\packages\\mcmaster.netcore.plugins\\1.4.0\\mcmaster.netcore.plugins.1.4.0.nupkg.sha512",
     "C:\\Users\\rodop\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\rodop\\.nuget\\packages\\microsoft.dotnet.apicompat.task\\8.0.203\\microsoft.dotnet.apicompat.task.8.0.203.nupkg.sha512",

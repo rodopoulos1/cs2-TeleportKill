@@ -20,6 +20,7 @@
           "net8.0"
         ],
         "sources": {
+          "C:\\Users\\rodop\\local-nuget": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -45,7 +46,7 @@
           "dependencies": {
             "CounterStrikeSharp.API": {
               "target": "Package",
-              "version": "[1.0.337, )"
+              "version": "[1.0.339, )"
             }
           },
           "imports": [

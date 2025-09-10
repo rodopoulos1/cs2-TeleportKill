@@ -2,7 +2,7 @@
   "version": 3,
   "targets": {
     "net8.0": {
-      "CounterStrikeSharp.API/1.0.337": {
+      "CounterStrikeSharp.API/1.0.339": {
         "type": "package",
         "dependencies": {
           "McMaster.NETCore.Plugins": "1.4.0",
@@ -912,14 +912,14 @@
     }
   },
   "libraries": {
-    "CounterStrikeSharp.API/1.0.337": {
-      "sha512": "10oeB4TCc2ADcPnE+Qu2qtVmz9R/S2GPy58WA5BGNzXYthlL+ig23XgHwXLl3IFNZsHClK1SiHC0scMUOluQxA==",
+    "CounterStrikeSharp.API/1.0.339": {
+      "sha512": "0gJ6dBB0cicdhgfSkRe50gQjdVDo/vo6N8ZxG7As6Fz6QDPnF/brxY7Tn8MWlD74zY+ynd8UHL8W6mRrDPVtPA==",
       "type": "package",
-      "path": "counterstrikesharp.api/1.0.337",
+      "path": "counterstrikesharp.api/1.0.339",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
-        "counterstrikesharp.api.1.0.337.nupkg.sha512",
+        "counterstrikesharp.api.1.0.339.nupkg.sha512",
         "counterstrikesharp.api.nuspec",
         "lib/net8.0/CounterStrikeSharp.API.dll",
         "lib/net8.0/CounterStrikeSharp.API.runtimeconfig.json",
@@ -2551,7 +2551,7 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "CounterStrikeSharp.API >= 1.0.337"
+      "CounterStrikeSharp.API >= 1.0.339"
     ]
   },
   "packageFolders": {
@@ -2573,6 +2573,7 @@
         "net8.0"
       ],
       "sources": {
+        "C:\\Users\\rodop\\local-nuget": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -2598,7 +2599,7 @@
         "dependencies": {
           "CounterStrikeSharp.API": {
             "target": "Package",
-            "version": "[1.0.337, )"
+            "version": "[1.0.339, )"
           }
         },
         "imports": [

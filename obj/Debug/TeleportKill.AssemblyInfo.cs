@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TeleportKill")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f9c4f75c41c1c73fb7adce3cdd5e812966b4acc8")]
 [assembly: System.Reflection.AssemblyProductAttribute("TeleportKill")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TeleportKill")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
